@@ -48,6 +48,7 @@
 
 # Diffusion model
 ###	Lecture notes:
+- https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ (Lillian Weng, Math behind)
 - https://theaisummer.com/diffusion-models/
 ###	Paper and Code
 - https://paperswithcode.com/method/diffusion
