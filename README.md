@@ -50,8 +50,13 @@
 ###	Lecture notes:
 - https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ (Lillian Weng, Math behind)
 - https://theaisummer.com/diffusion-models/
+- https://yang-song.net/blog/2021/score/
+- https://scholar.harvard.edu/binxuw/classes/machine-learning-scratch
 ###	Paper and Code
 - https://paperswithcode.com/method/diffusion
+- https://arxiv.org/abs/1503.03585
+- https://arxiv.org/abs/2006.11239
+- https://arxiv.org/abs/2102.09672
 ###	Video:
 - https://www.youtube.com/watch?v=HoKDTa5jHvg (paper explained)
 - https://www.youtube.com/watch?v=pea3sH6orMc (Variational autoencoders and Diffusion Models)
