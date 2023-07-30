@@ -25,6 +25,16 @@
 - https://www.youtube.com/watch?v=5bA6gwo36Cw (paper explained)
 - https://www.youtube.com/watch?v=fcvYpzHmhvA (variational autoencoders)
 
+# SAM
+### Model explained
+- https://encord.com/blog/segment-anything-model-explained/
+- https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
+
+### Paper and Code
+- https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=nzeDYEM8lXEAX97Fevl&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfDdA8gPzd7p-1b0LUZBo2gZXcEKqIfrjWrMkQDAtydReQ&oe=64CB4BE7
+- https://github.com/facebookresearch/segment-anything
+- https://github.com/bowang-lab/MedSAM
+
 # GAN
 ###	Lecture notes:
 - http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture11.pdf
