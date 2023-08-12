@@ -65,3 +65,20 @@
 - https://www.youtube.com/watch?v=HoKDTa5jHvg (paper explained)
 - https://www.youtube.com/watch?v=pea3sH6orMc (Variational autoencoders and Diffusion Models)
 
+# Multiple view geometry and geometric transformations
+###	Lecture notes
+- https://haosulab.github.io/intro-cv/FA21/index.html
+- [Book](http://szeliski.org/Book/)
+- https://cvg.cit.tum.de/teaching/ss2023/mvg2023/material
+- https://dellaert.github.io/19F-4476/Slides/S02-Geometry.pdf
+
+# Feature detectors and descriptors
+###	Lecture notes
+- https://docs.opencv.org/4.x/db/d27/tutorial_py_table_of_contents_feature2d.html
+- https://s18798.pcdn.co/videolab/wp-content/uploads/sites/10258/2019/03/Features_0328.pdf
+- http://16385.courses.cs.cmu.edu/fall2020content/lectures/06_features/06_features_slides.pdf
+- https://www.cs.utexas.edu/~grauman/courses/fall2009/papers/local_features_synthesis_draft.pdf
+
+### Code
+- 
+
